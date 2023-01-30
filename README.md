@@ -16,7 +16,7 @@ If you have a bunch of amazing recipes in your repertoire, don't worry! you coul
 
 This is a project I made to put all I've learned together, it was made using React along with Tailwind CSS to style it. I hope you've enjoyed it ✌🏻
 
-[Demo Here](https://feliperdamaceno.github.io/pixel-art-editor)
+[Demo Here](https://feliperdamaceno.github.io/cookbook-app)
 
 ## Licence
 
