@@ -32,7 +32,7 @@ I've studied using 💻 online courses, 📄 reading the documentation, and 💪
 
 I hope you've enjoyed this repository and have helped you in some way.
 
-Thanks for checking out and keeping learning 😉"
+Thanks for checking out and keeping learning 😉
 
 ## Contributors
 
