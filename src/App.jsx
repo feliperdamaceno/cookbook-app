@@ -27,7 +27,7 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/create" element={<Create />} />
             <Route path="/recipes/:id" element={<Recipe />} />
-            <Route path="*" element={<NotFound />} />
+            <Route path="/*" element={<NotFound />} />
           </Routes>
         </SearchProvider>
       </RecipesProvider>
