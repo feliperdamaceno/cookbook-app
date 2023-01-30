@@ -6,11 +6,11 @@ The app stores your recipes on the local storage of your browser, along with you
 
 ![page-showcase](app-showcase/app-showcase-1.gif)
 
-On the creation tab, you could create your more delicious recipes by seeing a preview of what is going to look like on the recipe page itself, with is really handy. If your recipe doesn't have any prep time or cook time, don't worry! you could set the time to 0 and it will automatically ignore that field.
+On the creation tab, you could create your more delicious recipes by seeing a preview of what is going to look like on the recipe page itself, which is really handy. If your recipe doesn't have any prep time or cook time, don't worry! you could set the time to 0 and it will automatically ignore that field.
 
 ![page-showcase](app-showcase/app-showcase-2.gif)
 
-If you have a bunch of amazing recipes in your repertoire, don't worry! you could search on the top search bar for the recipe you want to do and the app will give you the recipe you want.
+If you have a bunch of amazing recipes in your repertoire, you could search on the top search bar for the recipe you want to do, and the app will give you the recipe you want.
 
 ![page-showcase](app-showcase/app-showcase-3.gif)
 
