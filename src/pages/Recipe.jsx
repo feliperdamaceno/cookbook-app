@@ -44,7 +44,7 @@ export default function Recipe() {
 
           <button
             onClick={handleClick}
-            className={`${colorScheme} flex place-items-center text-2xl p-2 cursor-pointer absolute top-2 right-2`}
+            className={`${colorScheme} flex place-items-center text-2xl p-2 cursor-pointer absolute top-2 right-4`}
           >
             <DeleteIcon className="active:scale-105" />
           </button>
