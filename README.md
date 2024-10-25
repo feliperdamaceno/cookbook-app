@@ -20,24 +20,14 @@ This is a project I made to put all I've learned together, it was made using Rea
 
 ## Licence
 
-This repository is released under the [**MIT License**](LICENSE).
-
-## From me to you
-
-Hi, my name is **Felipe!**
-
-I'm a Front-End developer who wants to share my knowledge with the community, helping other devs who were on the same path as mine.
-
-I've studied using 💻 online courses, 📄 reading the documentation, and 💪 hard practicing every day. So if I could, **you could too!**
-
-I hope you've enjoyed this repository and have helped you in some way.
-
-Thanks for checking out and keeping learning 😉
+This is an open-source project and is available under the [**MIT License**](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ## Contributors
 
-[feliperdamaceno](https://github.com/feliperdamaceno/)
+Contributions are highly appreciated! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+[feliperdamaceno](https://github.com/feliperdamaceno)
 
 ## Contact me
 
-Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno/)
+Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno)
